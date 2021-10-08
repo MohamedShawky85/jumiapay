@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.jumia</groupId>
-	<artifactId>sqllite</artifactId>
+	<artifactId>jumiapay</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>sqllite</name>
 	<description>Countries phone numbers validation</description>

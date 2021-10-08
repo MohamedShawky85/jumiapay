@@ -19,7 +19,7 @@ import com.jumia.controller.CountryController;
 
 @SpringBootTest
 @AutoConfigureMockMvc
-class SqlliteApplicationTests {    
+class JumiaApplicationTests {    
     
 	@Autowired
 	private CountryController controller;
